@@ -1,6 +1,3 @@
-#include <iostream>
-#include <vector>
-
 /*
 Bin packing:
 https://en.wikipedia.org/wiki/Bin_packing_problem
@@ -29,6 +26,9 @@ Number of groups: 9
 
 Author: Terr (Vaneev Vladislav)
 */
+
+#include <iostream>
+#include <vector>
 
 static struct TempStorageForRecursion {
 	int maxInGroup;
