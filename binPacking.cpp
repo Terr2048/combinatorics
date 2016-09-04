@@ -7,10 +7,10 @@ https://en.wikipedia.org/wiki/Bin_packing_problem
 
 Examples:
 
-Numbers:				[1,2,1]		[4,4,4]		[1,3,2,4]		[1,2,2,2,3,7]
-Max in group:			2			7			4				8
+Numbers:			[1,2,1]		[4,4,4]		[1,3,2,4]		[1,2,2,2,3,7]
+Max in group:			2		7		4			8
 Sum in groups:			1+1,2		4,4,4		4,1+3,2			7+1,3+2+2,2 (8,7,2)
-Number of groups:		2			3			3				3
+Number of groups:		2		3		3			3
 
 Numbers: 31,4,2,22,19,6,26,14,18,30,56,11,14,6,3,9,1,5,8,36,2,45,5,6,3,6,7,8,4,7,7,8,9,5,2,3,4,2,2,44,5,6,2,6,2,6,1,5,6
 Max in group: 60
